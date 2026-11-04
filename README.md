@@ -15,6 +15,7 @@ la Olimpiada Cientifica de la Facultad Nacional de Ingenieria.
 
 ## Documentación
 Ver la carpeta [docs/](docs/)
+- [Premiación y certificación](docs/premiacion-y-certificacion.md)
 
 ## Contribuir
 Ver [CONTRIBUTING.md](CONTRIBUTING.md)
