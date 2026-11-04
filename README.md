@@ -21,6 +21,7 @@ seguimiento de resultados, administración de áreas de la
 
 ## Documentación
 Ver la carpeta [docs/](docs/)
+- [Premiación y certificación](docs/premiacion-y-certificacion.md)
 
 ## Contribuir
 Ver [CONTRIBUTING.md](CONTRIBUTING.md)
