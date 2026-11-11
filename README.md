@@ -13,6 +13,8 @@ Olimpiada Científica de la Facultad Nacional de Ingeniería (FNI).
 
 La Olimpiada Científica de la FNI abarca diversas disciplinas divididas en áreas científicas y tecnológicas, cada una con modalidades específicas de evaluación:
 
+## ¿Qué problema resuelve?
+La plataforma resuelve los siguientes problemas clave:
 ### 1. Áreas Científicas
 - **Biología:** Prueba teórica escrita e individual para estudiantes de 3.º a 6.º de secundaria.
 - **Química:** Competencia teórica y experimental de laboratorio en equipos de 3 a 4 estudiantes (1.º a 6.º de secundaria).
@@ -29,6 +31,9 @@ La Olimpiada Científica de la FNI abarca diversas disciplinas divididas en áre
 - **Redes y Ciberseguridad:** Pruebas prácticas de configuración y seguridad en laboratorio informático (3.º a 6.º de secundaria).
 - **Robótica:** Competencia práctica de diseño, ensamblaje y programación de robots en categorías por niveles (2.º a 6.º de secundaria).
 
+* **Dispersión de información:** Centraliza convocatorias, registros y resultados en un único punto oficial.
+* **Gestión manual e ineficiente:** Automatiza y agiliza la administración logística de las competencias de la Facultad Nacional de Ingeniería (UTO).
+* **Falta de trazabilidad:** Ofrece un seguimiento transparente y en tiempo real del progreso de las competencias académicas.
 ## Instalación
 
 *(Instrucciones de instalación próximamente)*
