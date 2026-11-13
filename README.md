@@ -13,6 +13,8 @@ Olimpiada Científica de la Facultad Nacional de Ingeniería (FNI).
 
 La Olimpiada Científica de la FNI abarca diversas disciplinas divididas en áreas científicas y tecnológicas, cada una con modalidades específicas de evaluación:
 
+## ¿Qué problema resuelve?
+La plataforma resuelve los siguientes problemas clave:
 ### 1. Áreas Científicas
 - **Biología:** Prueba teórica escrita e individual para estudiantes de 3.º a 6.º de secundaria.
 - **Química:** Competencia teórica y experimental de laboratorio en equipos de 3 a 4 estudiantes (1.º a 6.º de secundaria).
@@ -29,6 +31,9 @@ La Olimpiada Científica de la FNI abarca diversas disciplinas divididas en áre
 - **Redes y Ciberseguridad:** Pruebas prácticas de configuración y seguridad en laboratorio informático (3.º a 6.º de secundaria).
 - **Robótica:** Competencia práctica de diseño, ensamblaje y programación de robots en categorías por niveles (2.º a 6.º de secundaria).
 
+* **Dispersión de información:** Centraliza convocatorias, registros y resultados en un único punto oficial.
+* **Gestión manual e ineficiente:** Automatiza y agiliza la administración logística de las competencias de la Facultad Nacional de Ingeniería (UTO).
+* **Falta de trazabilidad:** Ofrece un seguimiento transparente y en tiempo real del progreso de las competencias académicas.
 ## Instalación
 
 *(Instrucciones de instalación próximamente)*
@@ -39,6 +44,23 @@ La Olimpiada Científica de la FNI abarca diversas disciplinas divididas en áre
 
 ## Documentación
 Ver la carpeta [docs/](docs/) y la especificación de [Tipos de Pruebas](docs/docs/tipos-de-prueba.md).
+
+## Estructura del repositorio
+
+El repositorio de ChuspaOlimpiada está organizado en las siguientes carpetas y archivos principales:
+
+- **`.github/`**: Contiene las plantillas de issues y Pull Requests, además de los flujos de trabajo de GitHub Actions.
+- **`data/`**: Organiza los datos del proyecto en carpetas para datos originales (`raw`), procesados (`processed`) y de análisis (`analysis`).
+- **`docs/`**: Contiene la documentación técnica, la arquitectura, los reglamentos, los datos y las especificaciones de la Olimpiada Científica.
+- **`security/`**: Contiene la documentación relacionada con las políticas de seguridad del proyecto.
+- **`src/`**: Directorio reservado para el código fuente de la plataforma ChuspaOlimpiada.
+- **`tests/`**: Organiza los planes, casos, datos, pruebas manuales y automatizadas, así como los reportes de pruebas.
+
+Los archivos principales de la raíz son:
+
+- **`CONTRIBUTING.md`**: Establece las reglas de contribución, el flujo de trabajo con Git y las convenciones de ramas, commits y Pull Requests.
+- **`LICENSE`**: Contiene los términos de la licencia MIT del proyecto.
+- **`README.md`**: Presenta el objetivo del proyecto, las áreas de la Olimpiada Científica y la información general del repositorio.
 
 ## Contribuir
 Ver [CONTRIBUTING.md](CONTRIBUTING.md)
